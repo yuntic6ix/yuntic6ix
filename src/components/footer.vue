@@ -35,7 +35,7 @@ export default {
 </script>
 
 <template>
-  <!-- Start Footer -->
+<!-- Start Footer -->
             <footer class="bg-dark dark:bg-white/[8%]" id="contact">
                 <div class="py-16">
                     <div class="container">

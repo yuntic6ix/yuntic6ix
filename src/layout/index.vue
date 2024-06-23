@@ -3,7 +3,6 @@ import Navbar from "../components/navbar.vue";
 import Service from "../components/service.vue";
 import Blog from "../components/blog.vue";
 import Testimonial from "../components/testimonial.vue";
-import Skill from "../components/skill.vue";
 import Education from "../components/education.vue";
 import Work from "../components/work.vue";
 import Footer from "../components/footer.vue";
@@ -14,7 +13,7 @@ import 'aos/dist/aos.css';
 export default {
     name: "INDEX",
     components: {
-        Navbar, Service, Blog, Testimonial, Skill, Education, Work, Footer
+        Navbar, Service, Blog, Testimonial, Education, Work, Footer
     },
    setup() {
         //active menu code
