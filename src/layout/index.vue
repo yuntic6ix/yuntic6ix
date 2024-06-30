@@ -89,10 +89,6 @@ export default {
         <Footer />
     </div>
     <div class="fixed z-50 flex flex-col gap-3 ltr:left-0 rtl:right-0 top-1/3">
-        <button type="button" class="inline-block px-4 text-white border-gray-200 shadow-lg h-11 bg-purple ltr:rounded-r-md rtl:rounded-l-md" @click="toggleDirection">
-            <span v-if="direction === 'ltr'">RTL</span>
-            <span v-else>LTR</span>
-        </button>
         <button type="button" class="inline-block px-4 text-white border-gray-200 shadow-lg h-11 bg-sky-500 ltr:rounded-r-md rtl:rounded-l-md" @click="toggleTheme">
             <span v-if="theme === 'light'">Dark</span>
             <span v-else>Light</span>

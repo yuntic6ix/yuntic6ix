@@ -21,22 +21,26 @@ export default {
                             <div class="flex flex-col flex-wrap items-center gap-5 lg:flex-row">
                                 <div class="w-full lg:w-1/2">
                                     <div class="py-16 md:py-24" data-aos="fade-up">
-                                        <p class="text-warning bg-warning/[14%] font-semibold text-lg inline-block p-2.5">Hi! I'm Mitchell Hancock</p>
-                                        <h1 class="mt-6 md:mt-8 font-bold text-3xl/normal md:text-[50px]/normal">生産管理部 開発支援チーム</h1>
-                                        <p class="text-gray mt-6 max-w-[571px] leading-loose">フィギュア業界10年、飽き性の私がこんなに続いているのは奇跡だと思っておりますが、やはり「かわいい」「カッコイイ」「感動的な造形美」はフィギュアの醍醐味であり魅了されているのだと思います。また、幼少期から培った感性を開発支援を通じてフィギュア製造に役立っていること自体も奇跡に思います。</p>
+                                        <p class="text-warning bg-warning/[14%] font-semibold text-lg inline-block p-2.5">Well Come!!</p>
+                                        <h1 class="mt-6 md:mt-8 font-bold text-3xl/normal md:text-[50px]/normal">Yuriko Saito</h1>
+                                        <p class="text-gray mt-6 max-w-[571px] leading-loose">前回の自己紹介では「タイマッサージ」をお勧めし、前々回では「MBTI診断」を共有させていただきました。 疲労を感じたらタイマッサージ、悩みにぶち当たったらMBTIで自己理解を深めつつ、今でも両方ハマり続けています! そして今回は「子供の頃ハマっていたもの」ということで、せっかくならいつか作ってみたいと思っていたウェブサイトを通じて発表させていただきます！</p>
                                         <div class="flex flex-wrap gap-5 mt-10">
                                         </div>
                                         <div class="flex flex-wrap items-center gap-5 pt-12 md:pt-20 md:gap-12">
                                             <div class="space-y-3 text-center">
                                                 <p class="text-2xl font-semibold" data-vanilla-counter data-start-at="0" data-end-at="180" data-time="1000" data-delay="0" data-format="{}+"> 
                                                     <count-to :startVal='0' :endVal='180' :duration='3000'></count-to>+
-                                                </p>                                            <p class="text-gray">Worldwide Clients</p>
+                                                </p>
                                             </div>
+                                            <a href="http://www.anantrarelaxation.com/">タイ古式マッサージ「Anantra」
+                                            </a>
+                                            <a href="https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E8%A8%BA%E6%96%AD%E3%83%86%E3%82%B9%E3%83%88">MBTI（性格）診断テスト
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="bg-gradient-radial from-[#994FF5] to-[#FFC41F] max-w-[800px] md:top-[100px] lg:absolute bottom-0 ltr:right-0 rtl:left-0 lg:w-6/12 w-full">
-                                    <p class="max-w-2xl mx-auto mt-5 text-5xl font-extrabold text-center text-transparent uppercase md:text-7xl lg:text-8xl bg-gradient-to-b from-white/70 bg-clip-text">Mitchell Hancock</p>
+                                    <p class="max-w-2xl mx-auto mt-5 text-5xl font-extrabold text-center text-transparent uppercase md:text-7xl lg:text-8xl bg-gradient-to-b from-white/70 bg-clip-text">Yuriko Saito</p>
                                     <div class="">
                                         <img src="@/assets/images/main-img.png" class="inset-x-0 bottom-0 mx-auto -mt-16 lg:absolute md:mt-0" alt="">
                                     </div>
@@ -63,10 +67,8 @@ export default {
                             </p>
                         </div>
                         <div class="mt-7">
-                            <h2 class="font-semibold text-[26px]/normal">Hi! I'm Yuriko Saito</h2>
-                            <p class="mt-6 text-gray">前回の自己紹介では「タイマッサージ」をお勧めし、前々回では「MBTI診断」を共有させていただきました。
-                                疲労を感じたらタイマッサージ、悩みにぶち当たったらMBTIで自己理解を深めつつ、今でも両方ハマり続けています!
-                                そして今回は「子供の頃ハマっていたもの」ということで、せっかくならいつか作ってみたいと思っていたウェブサイトで発表しようと初心者ですが頑張って作ってみました</p>
+                            <h2 class="font-semibold text-[26px]/normal">生産管理部 開発支援チーム</h2>
+                            <p class="mt-6 text-gray">フィギュア業界に飛び込んで早くも12年が過ぎました。環境を変えながらではありましたが飽き性の私がこんなに続いているのは奇跡だと思っております。やはり「かわいい」「カッコイイ」「感動的な造形美」はフィギュアの醍醐味であり魅了されているのだと思います。また、幼少期から培った感性を開発支援を通じてフィギュア製造に役立っていること自体も奇跡に思います。</p>
                         </div>
                     </div>
                 </div>

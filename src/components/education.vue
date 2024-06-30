@@ -21,7 +21,7 @@ export default {
                                             <path d="M4.33454 9.58362C5.35965 9.83993 6.16007 10.6403 6.41638 11.6655L7.37875 15.5149C7.45002 15.8 7.70616 16 8 16C8.29384 16 8.54998 15.8 8.62125 15.5149L9.58362 11.6655C9.83993 10.6403 10.6403 9.83993 11.6655 9.58362L15.5149 8.62125C15.8 8.54998 16 8.29384 16 8C16 7.70616 15.8 7.45002 15.5149 7.37875L11.6655 6.41638C10.6403 6.16007 9.83993 5.35965 9.58362 4.33454L8.62125 0.485071C8.54998 0.199992 8.29384 0 8 0C7.70616 0 7.45002 0.199991 7.37875 0.485071L6.41638 4.33454C6.16007 5.35965 5.35965 6.16007 4.33454 6.41638L0.485071 7.37875C0.199992 7.45002 0 7.70616 0 8C0 8.29384 0.199991 8.54998 0.485071 8.62125L4.33454 9.58362Z" fill="currentColor" />
                                         </svg>
                                     </span>
-                                    Life Time
+                                    Theme
                                 </p>
                             </div>
                             <h2 class="font-semibold text-[26px]/normal mt-7">子供の頃、ハマっていたもの！</h2>
@@ -147,8 +147,6 @@ export default {
                             <!-- Title Img -->
                             <div class="relative hidden w-full md:block">
                                 <div class="absolute w-full ltr:left-1 rtl:right-1 -top-36">
-                                    <img src="@/assets/images/edandex.png" class="mx-auto dark:hidden" alt="">
-                                    <img src="@/assets/images/edandex-dark.png" class="hidden mx-auto dark:block" alt="">
                                 </div>
                             </div>
 

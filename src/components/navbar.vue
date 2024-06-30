@@ -28,8 +28,7 @@ export default {
                                     <ul class="flex items-center text-white list-none space-x-7 rtl:space-x-reverse all-nav">
                                         <li class="home active"><a v-smooth-scroll href="#home" class="inline-block py-2 font-semibold leading-6 duration-300">Home</a></li>
                                         <li class="about"><a v-smooth-scroll href="#about" class="inline-block py-2 font-semibold leading-6 duration-300">About Me</a></li>
-                                        <li class="services"><a v-smooth-scroll href="#services" class="inline-block py-2 font-semibold leading-6 duration-300">Services</a></li>
-                                        <li class="work"><a v-smooth-scroll href="#work" class="inline-block py-2 font-semibold leading-6 duration-300">Projects</a></li>
+                                        <li class="services"><a v-smooth-scroll href="#services" class="inline-block py-2 font-semibold leading-6 duration-300">Theme</a></li>
                                         <li class="client"><a v-smooth-scroll href="#client" class="inline-block py-2 font-semibold leading-6 duration-300">Client</a></li>
                                         <li class="blog"><a v-smooth-scroll href="#blog" class="inline-block py-2 font-semibold leading-6 duration-300">Blog</a></li>
                                         <a v-smooth-scroll href="#contact" class="inline-block px-5 py-3 font-semibold leading-none transition-all duration-300 bg-white border border-white text-dark hover:bg-white/90">Let’s Chat</a>
@@ -43,7 +42,6 @@ export default {
                                     <li class="home active"><a v-smooth-scroll href="#home" class="inline-block py-2 font-semibold leading-6 duration-300">Home</a></li>
                                     <li class="about"><a v-smooth-scroll href="#about" class="inline-block py-2 font-semibold leading-6 duration-300">About Me</a></li>
                                     <li class="services"><a v-smooth-scroll href="#services" class="inline-block py-2 font-semibold leading-6 duration-300">Services</a></li>
-                                    <li class="work"><a v-smooth-scroll href="#work" class="inline-block py-2 font-semibold leading-6 duration-300">Projects</a></li>
                                     <li class="client"><a v-smooth-scroll href="#client" class="inline-block py-2 font-semibold leading-6 duration-300">Client</a></li>
                                     <li class="blog"><a v-smooth-scroll href="#blog" class="inline-block py-2 font-semibold leading-6 duration-300">Blog</a></li>
                                     <a v-smooth-scroll href="#contact" class="inline-block px-5 py-3 mt-3 font-semibold leading-none transition-all duration-300 bg-white border border-white text-dark hover:bg-white/90">Let’s Chat</a>

@@ -15,7 +15,6 @@ export default {
                         <div class="flex flex-wrap lg:flex-nowrap items-stretch border-2 border-gray/20 dark:border-white/[12%]" data-aos="fade-up">
                         </div>
                         <div class="text-center" data-aos="fade-up">
-                            <a href="javascript:;" class="btn btn-dark">View All Project</a>
                         </div>
                     </div>
                 </div>

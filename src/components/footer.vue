@@ -86,7 +86,6 @@ export default {
                                 </div>
                             </div>
                             <div>
-                                <img src="@/assets/images/contact-cartoon.png" class="mx-auto" alt="">
                             </div>
                         </div>
                     </div>
