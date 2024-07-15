@@ -23,14 +23,14 @@ export default {
                                     <div class="py-16 md:py-24" data-aos="fade-up">
                                         <p class="text-warning bg-warning/[14%] font-semibold text-lg inline-block p-2.5">Well Come!!</p>
                                         <h1 class="mt-6 md:mt-8 font-bold text-3xl/normal md:text-[50px]/normal">Yuriko Saito</h1>
-                                        <p class="text-gray mt-6 max-w-[571px] leading-loose">前回の自己紹介では「タイマッサージ」をお勧めし、前々回では「MBTI診断」を共有させていただきました。 疲労を感じたらタイマッサージ、悩みにぶち当たったらMBTIで自己理解を深めつつ、今でも両方ハマり続けています! そして今回は「子供の頃ハマっていたもの」ということで、せっかくならいつか作ってみたいと思っていたウェブサイトを通じて発表させていただきます！</p>
+                                        <p class="text-gray mt-6 max-w-[571px] leading-loose">前回の自己紹介では「タイマッサージ」をお勧めし、前々回では「MBTI診断」を共有させていただきました。 疲労を感じたらタイマッサージ、悩みにぶち当たったらMBTIで自己理解を深めつつ、今でも両方ハマり続けています！ そして今回は「子供の頃ハマっていたもの」ということで、せっかくならいつか作ってみたいと思っていたウェブサイトを通じて発表させていただきます！</p>
                                         <div class="flex flex-wrap gap-5 mt-10">
                                         </div>
                                         <div class="flex flex-wrap items-center gap-5 pt-12 md:pt-20 md:gap-12">
-                                            <div class="space-y-3 text-center">
-                                                <p class="text-2xl font-semibold" data-vanilla-counter data-start-at="0" data-end-at="180" data-time="1000" data-delay="0" data-format="{}+"> 
-                                                    <count-to :startVal='0' :endVal='180' :duration='3000'></count-to>+
-                                                </p>
+                                                <div class="space-y-3 text-center">
+                                                    <p class="text-2xl font-semibold" data-vanilla-counter data-start-at="0" data-end-at="180" data-time="1000" data-delay="0" data-format="{}+"> 
+                                                        <count-to :startVal='0' :endVal='180' :duration='3000'></count-to>+
+                                                    </p>
                                             </div>
                                             <a href="http://www.anantrarelaxation.com/">タイ古式マッサージ「Anantra」
                                             </a>
@@ -68,18 +68,18 @@ export default {
                         </div>
                         <div class="mt-7">
                             <h2 class="font-semibold text-[26px]/normal">生産管理部 開発支援チーム</h2>
-                            <p class="mt-6 text-gray">フィギュア業界に飛び込んで早くも12年が過ぎました。環境を変えながらではありましたが飽き性の私がこんなに続いているのは奇跡だと思っております。やはり「かわいい」「カッコイイ」「感動的な造形美」はフィギュアの醍醐味であり魅了されているのだと思います。また、幼少期から培った感性を開発支援を通じてフィギュア製造に役立っていること自体も奇跡に思います。</p>
+                            <p class="mt-6 text-gray">フィギュア業界に飛び込んで早くも12年が過ぎました。環境を変えながらではありましたが飽き性の私がこんなに続いているのは奇跡だと思っています。やはり「かわいい」「カッコイイ」「感動的な造形美」はフィギュアの醍醐味であり魅了されますし、幼少期から培った感性を開発支援を通じてフィギュア製造に役立てていること自体も奇跡に思います。</p>
                         </div>
                     </div>
                 </div>
                 <div class="grid grid-cols-1 mt-14">
                     <div class="flex-wrap items-start sm:flex gap-7 space-y-7 sm:space-y-0">
                         <div class="space-y-2.5 font-semibold flex-1">
-                            <p class="text-gray whitespace-nowrap">contact</p>
+                            <p class="text-gray whitespace-nowrap">Contact</p>
                             <p class="whitespace-nowrap">y8-saito@megahouse.co.jp</p>
                         </div>
                         <div class="space-y-2.5 font-semibold flex-1">
-                            <p class="text-gray whitespace-nowrap">Phone</p>
+                            <p class="text-gray whitespace-nowrap">Company phone</p>
                             <p class="whitespace-nowrap">080-7174-2037</p>
                         </div>
                         <div class="space-y-2.5 font-semibold flex-1">
